@@ -28,7 +28,7 @@
         }
 
         ul li {
-            margin: 1px 0; /* Optional: margin for list items */
+            margin: 1px 0;
         }
 
         a {
@@ -39,8 +39,8 @@
             border-radius: 8px;
             transition: background-color 0.3s ease;
             font-size: 1.2rem;
-            margin: 10px; /* Space between buttons */
-            display: inline-block; /* Ensure spacing works properly */
+            margin: 10px;
+            display: inline-block;
         }
 
         a:hover {
